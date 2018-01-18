@@ -1,10 +1,12 @@
 Ju¿ paniczu, przepowiadam… widzê wiele pomyœlnoœci, widzê przygody wi… widzê…
 …WIDZÊ OGIEÑ… 
-…ciep³o i zimno… 
-…¿ycie i œmieræ..
-…œwiat³o i mrok.
-Epokê Ognia, ale p³omienie wkrótce zgasn¹ i pozostanie tylko mrok…
-…nieskoñczone noce, stulecia spowite mg³¹…
-Poœród ¿ywych pojawili siê nosiciele przeklêtego mrocznego znaku.
-Nieumarli nosz¹ mroczny znak,
+…ciep³o i zimno… [hit fire ice]
+…¿ycie i œmieræ.. [powerup3 powerdown3]
+…œwiat³o i mrok. [glowing light + darken]
+Epokê Ognia, ale p³omienie wkrótce zgasn¹ i pozostanie tylko mrok… [neutral all2]
+…nieskoñczone noce, stulecia spowite mg³¹… [fog]
+Poœród ¿ywych pojawili siê nosiciele przeklêtego mrocznego znaku.[powerdown4]
+Nieumarli nosz¹ mroczny znak, [death]
 To twoje przeznaczenie…
+
+¹
