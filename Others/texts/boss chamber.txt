@@ -1,0 +1,55 @@
+Aktorzy:
+6 paladynów
+Wampirzy Lord (Evil6), [B]: (Mage)
+Wampirzyca: [S] Insane8 [P] Actor1-2 [B]: (Wizard f)
+Wampir: Evil5,
+
+///Ca³¹ 6’stka paladynów wchodzi do³em. (Vlad jest obok Corneliusa) Mog¹ w³aœnie zg³adziæ jakieœ ostatnie duchy czy coœ.  Na tronie Siedzi Wampirzy Lord, Po jednej jego stronie Wampir po drugiej Kochanica
+A wiêc uda³o Wam siê dostaæ do mojej komnaty. Jestem pe³en podziwu, ¿e byliœcie w stanie pokonaæ moje s³ugi. Lecz na tym Wasze szczêœcie siê koñczy… \nr<Wampirzy Lord> 
+To koniec Twojego haniebnego nie¿ywota, potworze \nr<Sir Gregor> 
+S¹dzisz, ¿e jesteœ w stanie mnie pokonaæ starcze? \nr<Wampirzy Lord> 
+///Efekt jakiejœ mrocznej magii by Sir Gregor pada
+Bwahahahaha  \nr<Wampirzy Lord>
+Strze¿ siê blasku Prawoœci! Zgiñ przepadnij! \nr<Sir Gregor>
+///Efekt jakiejœ ³adowania many albo czegoœ, coœ ¿e intantacja
+Moc¹ D³oni z Izalith! Przepadnij! \nr<Henrietta>
+///Efekt jakiœ mroczniejszy, Piorunki albo coœ od Henrietty powalaj¹ j¹ i Gregora i Morganê stoj¹cych najbli¿ej na ziemiê.
+Niemo¿liwe… \nr<Henrietta>
+Muahahahahahha \nr<Wampirzy Lord>
+Pok³adacie zbyt wielk¹ wiarê w swych relikwiach i œwiêtoœci. To Was zgubi³o. Teraz zg³adzenie Was wydaje siê zbyt ³atwe. \nr<Wampirzy Lord>
+///Szermierz odwraca siê do Lorda
+Mistrzu, skoro dotarli a¿ tutaj honor nakazywa³by…  \nr<Wampir>
+///Wampirzy Lord rzuca jakiœ spell i reszta dobrych te¿ pada na ziemiê ra¿ona mroczn¹ magi¹
+Pozwól mi wyssaæ ich duszê! \nr<Wampirzyca>
+///Wampirzyca podbiega do Corneliusa
+… \nr<Wampirzy Lord>
+Ten wygl¹da tak smakowicie, a¿ chcia³abym go zachowaæ. \nr<Wampirzyca>
+B¹dŸ przeklêta…  \nr<Cornelius>
+Ah jaki waleczny. Jak sobie ¿yczysz! \nr<Wampirzyca>
+///zabija go przy pomocy jakiejœ magii albo czegoœ, sugestiê przyjmujê 
+Nieeeeeeeee! \nr<Vlad>
+///Vlad prze³amuje czar i rzuca siê na wampirzyce, walka z ni¹, (ale w sumie w samej walce mo¿e byæ te¿ lord i drugi wampir, tylko kwestia, ¿e trzeba j¹ zabiæ> pada od jednego ciosu) zabija j¹ szybko. Wampirzyca pada.
+Niemo¿liwe… \nr<Wampir>
+///Jakiœ efekt który odzwierciedli gniew Wampirzego Lorda. Vlad Pada.
+Wszyscy bêdziecie cierpieæ za to… \nr<Wampirzy Lord>
+///Ponownie , jakieœ okrzyki bólu mo¿e. Potem mog¹ powoli umieraæ, mo¿e z jakimœ splaszem, czy coœ by by³o widaæ, ¿e umieraj¹
+B³agam, litoœci, bêdê Ci s³u¿y³ po wieki! \nr<Cuthbert>
+/// Cuthbert umiera
+A Ty? Nie bêdziesz b³aga³ o ¿ycie? \nr<Wampirzy Lord>
+Wola³bym umrzeæ tysi¹c razy ni¿ s³u¿yæ komuœ takiemu jak Ty! \nr<Vlad>
+Tak. Œmieræ by³aby dla Ciebie zbyt ³askawa... \nr<Wampirzy Lord>
+Mistrzu, chyba nie myœlisz o… \nr<Wampir>
+Cisza! \nr<Wampirzy Lord>
+Trwaj wiêc wojowniku, cierp w tym ostatnim tchnieniu po wieki, albowiem zgaszê ¿ar Twego ¿ycia, choæ nie umrzesz. \nr<Wampirzy Lord>
+Bêdziesz po wieki przeklêty… \nr<Wampirzy Lord>
+<<<<< koniec>>>>>
+Bêdzie jeszcze scena dodatkowa w ciemnoœci z Morgan¹ (gdy¿ ma³o jej by³o w tej scenie)
+
+
+
+
+
+
+
+
+
