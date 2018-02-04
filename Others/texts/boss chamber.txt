@@ -10,7 +10,7 @@ To koniec Twojego haniebnego nie¿ywota, potworze \nr<Sir Gregor>
 S¹dzisz, ¿e jesteœ w stanie mnie pokonaæ starcze? \nr<Wampirzy Lord> 
 ///Efekt jakiejœ mrocznej magii by Sir Gregor pada
 Bwahahahaha  \nr<Wampirzy Lord>
-Strze¿ siê blasku Prawoœci! Zgiñ przepadnij! \nr<Sir Gregor>
+Strze¿ siê blasku Prawoœci! Zgiñ przepadnij! \nr<Henrietta>
 ///Efekt jakiejœ ³adowania many albo czegoœ, coœ ¿e intantacja
 Moc¹ D³oni z Izalith! Przepadnij! \nr<Henrietta>
 ///Efekt jakiœ mroczniejszy, Piorunki albo coœ od Henrietty powalaj¹ j¹ i Gregora i Morganê stoj¹cych najbli¿ej na ziemiê.
