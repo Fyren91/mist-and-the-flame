@@ -1,0 +1,42 @@
+jak jest katedra
+to kamera idzie w dó³ a nie w górê
+i jak siê zatrzyma na dole, do Vlad w³aœnie podchodzi do drzwi
+potem w œrodku jest w korytarzu od lewej i idzie prosto do drzwi rady
+ale zatrzymuje siê przed nimi
+bo s³yszy rozmowê zuoli:
+
+…najwa¿niejsze, ¿e plan siê powiód³ \nr <Mistrz Morgenstern>
+
+///przenosimy siê do œrodka zacienionej rady, tym razem kamera od do³u i zatrzymuje siê wy¿ej, tak by zarówno Artas jak i Morgenster byli ponad lini¹ tekstów
+
+Wszystko posz³o zgodnie z planem. \nr <Sir Artas>
+Oczywiœcie, jak¿e mia³oby byæ inaczej. \nr <Lucjusz Morgenstern>
+Wci¹¿ jednak nie wszystko rozumiem, jak uda³o Ci siê do tego wszystkiego doprowadziæ? \nr <Sir Artas>
+Najtrudniejsz¹ czêœci¹ by³o otrucie Matki Wielebnej, ka¿dy z kolejnych by³ coraz ³atwiejszy... \nr <Lucjusz Morgenstern>
+Zmiany w sk³adzie poszczególnych dru¿yn mia³y doprowadziæ do tego, by nikt nie wróci³ ¿yw spoœród tych, którzy nie s¹ naszymi poplecznikami. Najwiêkszy problem stanowi³a Henrietta, dlatego musia³em siê upewniæ, ¿e nie wróci w jednym kawa³ku. Dlatego podarowa³em jej przeklêt¹ D³oñ z Izalith \nr <Lucjusz Morgenstern>
+Ale jak mog³a siê nie zorientowaæ, ¿e jest przeklêta? \nr <Sir Artas>
+Oh, Henrietta nigdy mia³a choæ krztyny zdolnoœci Postrzegania, jak¹ posiada³a Matka Wielebna, nie dorównywa³a nawet mi. Prêdzej spodziewa³bym siê, ¿e m³oda Morgana coœ wyczuje…  \nr <Lucjusz Morgenstern>
+To czemu pos³a³eœ j¹ razem z nimi? \nr <Sir Artas>
+Gdy¿ kiedy Ty by³eœ œwiatkiem jak¿e traaaaginej œmierci Lady Bishop i m³odego kap³ana z r¹k wilko³aków… Ja stara³em siê przej¹æ P³omieñ. \nr <Lucjusz Morgenstern>
+Uda³o Ci siê to? \nr <Sir Artas>
+Ufam, ¿e nie zajmie to zbyt d³ugo. Stra¿niczka umar³a dziœ rano. Bez jej opieki P³omieñ bêdzie musia³ w koñcu przyj¹æ kolejne Naczynie. Z ka¿d¹ prób¹ docieram g³êbiej, nie bêdzie mi siê opiera³ du¿o d³u¿ej. \nr <Lucjusz Morgenstern>
+I co jak ju¿ przejmiesz P³omieñ? \nr <Sir Artas>
+Wtedy stanê siê nowym Ojcem Wielebnym. Posi¹dê moc ognia, a przede wszystkim W³adzê! \nr <Lucjusz Morgenstern>
+… \nr <Sir Artas>
+W³adza nad œwi¹tyni¹, to w³adza nad biednymi duszami jej wiernych, wystraszonych straszliwymi Wampirami i bezlitosnymi Wilko³akami, które zosta³y zes³ane przez Niebiosa za ICH grzechy. Któ¿ bêdzie Tym, który wska¿e im drogê do odkupienia? ¯ycia kilku wiernych od czasu do czasu by podtrzymaæ ich strach to cena, jak¹ jestem w stanie ponieœæ… \nr <Lucjusz Morgenstern>
+Sk¹d pewnoœæ, ¿e nikt nas nie powstrzyma? \nr <Sir Artas>
+Ka¿dy kto choæby œmia³ zgin¹³ zabity przez ów Gniew Niebios zes³any za grzechy ludzkie. \nr <Lucjusz Morgenstern>
+A jeœli ktoœ siê pojawi? \nr <Sir Artas>
+Bêdzie bezbo¿nikiem, na którego czeka stos. Nikt nie bêdzie siê sprzeciwia³ MI! \nr <Lucjusz Morgenstern>
+///wracamy do korytarza
+Niemo¿liwe… \nr <Vlad>
+To wszystko by³o ukartowane… \nr <Vlad>
+Muszê ich powstrzymaæ! Nawet jeœli rzeczywiœcie zosta³em… przeklêty…\nr <Vlad>
+…i jestem potworem, to nie mogê do tego dopuœciæ! \nr <Vlad>
+Sam nie dam rady… nie jestem doœæ silny by ich pokonaæ… nie jestem doœæ… \nr <Vlad>
+…potê¿ny \nr <Vlad>
+… \nr <Vlad>
+…ale wiem co jest \nr <Vlad>
+
+
+
