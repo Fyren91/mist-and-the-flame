@@ -10,7 +10,7 @@ bo s³yszy rozmowê zuoli:
 ///przenosimy siê do œrodka zacienionej rady, tym razem kamera od do³u i zatrzymuje siê wy¿ej, tak by zarówno Artas jak i Morgenster byli ponad lini¹ tekstów
 
 Wszystko posz³o zgodnie z planem. \nr <Sir Artas>
-Oczywiœcie, jak¿e mia³oby byæ inaczej. \nr <Lucjusz Morgenstern>
+Oczywiœcie, jak¿e mia³oby byæ inaczej. \nr<Lucjusz Morgenstern>
 Wci¹¿ jednak nie wszystko rozumiem, jak uda³o Ci siê do tego wszystkiego doprowadziæ? \nr <Sir Artas>
 Najtrudniejsz¹ czêœci¹ by³o otrucie Matki Wielebnej, ka¿dy z kolejnych by³ coraz ³atwiejszy... \nr <Lucjusz Morgenstern>
 Zmiany w sk³adzie poszczególnych dru¿yn mia³y doprowadziæ do tego, by nikt nie wróci³ ¿yw spoœród tych, którzy nie s¹ naszymi poplecznikami. Najwiêkszy problem stanowi³a Henrietta, dlatego musia³em siê upewniæ, ¿e nie wróci w jednym kawa³ku. Dlatego podarowa³em jej przeklêt¹ D³oñ z Izalith \nr <Lucjusz Morgenstern>
@@ -38,5 +38,6 @@ Sam nie dam rady… nie jestem doœæ silny by ich pokonaæ… nie jestem doœæ… \nr <Vl
 … \nr <Vlad>
 …ale wiem co jest \nr <Vlad>
 
-
+Ostatni œmia³ek, który próbowa³ uj¹æ ten miecz sp³on¹³...
+ale skoro Morgenstern próbowa³ go przej¹æ i nic mu nie jest...
 
