@@ -1,0 +1,12 @@
+Mamy dla Ciebie zadanie. Dosz³y nas s³uchy, ¿e czarodziej Ganondorf zainteresowa³ siê podejrzanymi arkanami i zda¿a mu siê przywo³ywaæ demony… \nr<Tajemniczy Cz³onek Organizacji>
+…\nr<Teliorel>
+Nie mo¿emy pozwoliæ, by takie praktyki mia³y miejsce. Jednak¿e wci¹¿ brak nam twardych dowodów, ¿e to jego sprawka. Musisz zakraœæ siê do jego wie¿y i znaleŸæ coœ co da nam pewnoœæ.  \nr<Tajemniczy Cz³onek Organizacji>
+Masz na myœli jakiœ demoniczny grimuar? \nr<Teliorel>
+Tak, coœ takiego. Na pewno nie szukaj samych demonów, bo nie dasz sobie z nimi rady. \nr<Tajemniczy Cz³onek Organizacji>
+I co mam zrobiæ, jak ju¿ znajdê ten dowód? \nr<Teliorel>
+Ukryj nieopodal ten kamieñ lokalizacyjny, ¿eby nasi ludzie mogli póŸniej znaleŸæ to miejsce. \nr<Tajemniczy Cz³onek Organizacji>
+//// dostajesz kamieñ
+Czy mamy jakiekolwiek informacje gdzie taka rzecz mog³aby siê znajdowaæ? \nr<Teliorel>
+Jedyne co wiemy to, ¿e zakazane ksiêgi nie bêd¹ le¿eæ na widoku, prawdopodobnie bêdzie to w jakimœ ukrytym pomieszczeniu. Na szczêœcie sam Ganondorf wyjecha³ a jego uczniowie przygotowuj¹ siê do egzaminów, wiêc s¹ zbyt rozkojarzeni, by zauwa¿yæ, ¿e ktoœ niepowo³any krêci siê po wie¿y. Musisz jednak uwa¿aæ, bo jeœli oni albo s³u¿ba Ciê zobacz¹, to mo¿esz skoñczyæ Ÿle, a my nie bêdziemy w stanie Ci pomóc. \nr<Tajemniczy Cz³onek Organizacji>
+Czyli znowu jestem zdany na siebie? \nr<Teliorel>
+W koñcu za to Ci p³acimy. Pamiêtaj, ta rozmowa siê nie odby³a… \nr<Tajemniczy Cz³onek Organizacji>
